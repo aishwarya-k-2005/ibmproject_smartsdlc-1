@@ -1,1 +1,1 @@
-gradio
+https://huggingface.co/spaces/aishwarya-2005/smartsdc
